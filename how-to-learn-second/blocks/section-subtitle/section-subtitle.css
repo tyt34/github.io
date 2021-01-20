@@ -1,0 +1,21 @@
+.section-subtitle {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  width: 60%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/*
+.section-subtitle {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  width: 60%;
+  text-align: center;
+  margin: 20px auto 0;
+}
+*/

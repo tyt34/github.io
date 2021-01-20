@@ -1,0 +1,18 @@
+.khan__buy-link {
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: normal;
+  opacity: 1;
+  text-decoration: none;
+  color: #2f80ed;
+  z-index: 3;
+  transition: opacity 3.3s;
+  -webkit-transition: opacity 3.3s;
+  -o-transition: opacity 3.3s;
+  -moz-transition: opacity 3.3s;
+}
+
+.khan__buy-link:hover {
+  color: red;
+  opacity: 0.45;
+}
