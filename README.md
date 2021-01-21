@@ -1,3 +1,5 @@
 # Научиться
-![](https://shields.io/badge/-HTML-orange) ![](https://shields.io/badge/-CSS-blueviolet)
+***
+![](https://shields.io/badge/-HTML-orange) ![](https://shields.io/badge/-CSS-blueviolet) 
+***
 Демонстрационный одностраничный сайт, который был сверстан после второго учебного отрезка времени (спринта). На сайте представлена простая анимация реализуемая с помощью **свойств CSS**. Файловая структура - **nested БЭМ**.
