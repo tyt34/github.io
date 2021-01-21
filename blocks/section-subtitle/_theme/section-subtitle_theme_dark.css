@@ -1,0 +1,10 @@
+.section-subtitle_theme_dark {
+  position: relative;
+  /*
+  line-height: 34px;
+  font-size: 24px;*/ /* 21-01-20 было 28 */
+  font-weight: normal;
+  text-align: center;
+  margin: 20px auto 0;
+  z-index: 2;
+}
