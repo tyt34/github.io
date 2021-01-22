@@ -9,3 +9,9 @@
 .twocolumns__paragraph:last-of-type {
   margin-bottom: 0;
 }
+
+p.anekdot {
+  font-size: 35px;
+  line-height: 40px;
+  color: red;
+}
